@@ -45,3 +45,6 @@ Before you can integrate this RESTful API, you must [https://your-domain.com/api
 
 ## Get an access token
 Your access token authorizes you to use the REST API. To call the REST API or perform a function, exchange your username and password for an access token in an OAuth token call.
+
+## Documentation
+A full API Documentation can be found [https://documenter.getpostman.com/view/3144903/TzXzDHGZ](https://documenter.getpostman.com/view/3144903/TzXzDHGZ)
